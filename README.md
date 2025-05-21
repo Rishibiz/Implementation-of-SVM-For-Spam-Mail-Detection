@@ -70,6 +70,7 @@ accuracy=metrics.accuracy_score(y_test,y_pred)
 accuracy
 ```
 ## Output:
+
 ### Encoding:
 ![Screenshot 2025-05-21 111455](https://github.com/user-attachments/assets/b0f918d4-5971-4726-b9c4-7cad965e36db)
 
